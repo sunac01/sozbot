@@ -1,5 +1,5 @@
-TOKEN = '1495875069:AAF9TSdEIwHxRhozbXf44Vjq_Ib1jHlqvFY'  # Learn how to get one on https://core.telegram.org/bots#6-botfather
-ADMIN_ID = 1419590194
+TOKEN = '1759261573:AAGDYIV5ZjE4aOabjwP12vG7n1BRnkwq3Fw'  # Learn how to get one on https://core.telegram.org/bots#6-botfather
+ADMIN_ID = 1021875240
 SKIP_PENDING = False  # Skip pending updates on bot startup
 PLAYERS_COUNT_TO_START = 1  # Minimal quantity of players that is required to start mafia game
 PLAYERS_COUNT_LIMIT = 10  # Maximum quantity of players that is allowed to start mafia game
